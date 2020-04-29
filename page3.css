@@ -1,0 +1,57 @@
+.b
+{
+    background-color:black;
+    height:60;
+}
+p
+{
+    word-spacing:30px;
+    color:red;
+    font-size:40px;
+}
+a
+{
+    color:red;
+    font-size:50px;
+    text-decoration:none;
+    
+}
+.c
+{
+    width:1000px;
+    height:2100px;
+    margin:0px 200px;
+    background-color:#F1F2F2;
+}
+.d
+{
+    background:url(corona1);
+    width:950;
+    height:500;
+    margin:20px 25px;
+    color:white;
+}
+.e
+{
+    background:url(messi);
+    width:950;
+    height:500;
+    margin:20px 25px;
+    color:white
+}
+.f
+{
+    background:url(spacex);
+    width:950;
+    height:500;
+    margin:20px 25px;
+    color:white  
+}
+.g
+{
+    background:url(ps5);
+    width:950;
+    height:500;
+    margin:20px 25px;
+    color:white 
+}

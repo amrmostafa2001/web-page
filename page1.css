@@ -1,0 +1,27 @@
+body
+{
+    background:url(space2);
+}
+form
+{
+    width:500px;
+    height:400px;
+    color:red;
+    margin: 150px 500px;
+    line-height:70px;
+    font-size:40px;
+    font-weight:bold;
+    text-align:center;
+    
+    
+}
+.a
+{
+    width:200px;
+    height:30px;
+}
+.b
+{
+    width:70px;
+    height:40px;
+}
